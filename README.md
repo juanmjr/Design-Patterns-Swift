@@ -1,2 +1,2 @@
 # Design-Patterns-Swift
-Repository to learn design patterns of gang of four fundamentals
+Repository to learn most useful design patterns.
